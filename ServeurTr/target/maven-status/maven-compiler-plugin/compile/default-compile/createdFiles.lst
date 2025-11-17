@@ -1,0 +1,4 @@
+com\mycompany\serveurtr\ServeurTr.class
+com\mycompany\serveurtr\Communication.class
+com\mycompany\serveurtr\DatabaseConnection.class
+com\mycompany\serveurtr\Mesure.class
